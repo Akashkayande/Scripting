@@ -1,0 +1,6 @@
+2026-04-22 15:05:12 [ERROR] Invalid username: TestUser
+2026-04-22 15:05:12 [ERROR] Username or group cannot be empty
+2026-04-22 15:07:22 [ERROR] User already exists: akash
+2026-04-22 15:06:01 [INFO] Group does not exist. Creating group: devops
+2026-04-22 15:06:01 [INFO] Generated password for testuser: a3f9c1e8b7d6
+2026-04-22 15:06:02 [INFO] User created: testuser with group devops
